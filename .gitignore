@@ -1,5 +1,12 @@
-# Prerequisites
+k Prerequisites
 *.d
+
+# VScode
+.lsp/
+.clj-kondo/
+
+# C3
+target/
 
 # Object files
 *.o
